@@ -61,6 +61,10 @@ Algoritma 100 nesil boyunca çalıştırılmış ve aşağıdaki sonuçlar elde 
 | **Toplam Oran** | **%100.00** | Kısıt ($x_1+x_2=100$) sağlandı. |
 | **Fitness Puanı** | **500.0** | Global Optimum'a ulaşıldı. |
 
+Algoritma çalışma sonucunda elde edilen gelişim ve oran grafikleri aşağıdadır:
+
+![Genetik Algoritma Sonuç Grafiği](sonuc_grafigi.png)
+
 **Yorum:**
 Algoritma ilk 20 nesilde hızlı bir öğrenme süreci geçirmiş, hatalı (ceza alan) bireyleri eleyerek kısıtları sağlayan bölgeye yönelmiştir. Matematiksel olarak formülde $x_1$'in katsayısı daha büyük olduğu için, algoritma $x_1$'i maksimize edip $x_2$'yi minimize ederek (ancak toplamı 100'de tutarak) mümkün olan en yüksek puanı (500) bulmuştur.
 
