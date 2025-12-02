@@ -10,8 +10,8 @@
 
 ## 📌 Problem Tanımı ve Senaryo
 
-Bir fabrika, iki tür pigment karışımıyla ideal renk yoğunluğunu yakalamak istemektedir. Problem, belirli kısıtlar altında kalite puanını maksimize etmeye dayalıdır.
-Not: Kalite, puan, ideal kavramlarında problemi maksimize etmemiz gerekir.
+Endüstriyel bir boya fabrikası, üretim sürecinde kullanılan iki farklı pigmentin (A ve B) karışımıyla ideal renk yoğunluğunu yakalamayı hedeflemektedir.
+Temel amaç; karışımın toplam miktarının %100 olması ve hammadde alt limitleri gibi belirli kısıtlar altında, renk kalitesi puanını (Amaç Fonksiyonunu) maksimize eden (en üst düzeye çıkaran) ideal karışım oranlarını Genetik Algoritma kullanarak bulmaktır.
 
 ### 1. Matematiksel Model
 **Amaç Fonksiyonu (Renk Kalitesi):**
