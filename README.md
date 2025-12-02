@@ -15,7 +15,7 @@ Temel amaç; karışımın toplam miktarının %100 olması ve hammadde alt limi
 
 ### 1. Matematiksel Model
 **Amaç Fonksiyonu (Renk Kalitesi):**
-$$ y = 5x_1 + 2x_2 - x_1x_2$$
+$$y = 5x_1 + 2x_2 - x_1x_2$$
 
 **Değişkenler:**
 * $x_1$: Pigment A Oranı (%)
@@ -34,8 +34,8 @@ Bu projede, problemin doğası gereği (negatif puan ihtimali ve kesin kısıtla
 
 ### 1. Ceza Yöntemi
 Kısıtları sağlamayan bireyler doğrudan elenmek yerine, hata paylarına göre cezalandırılmıştır. Bu sayede çeşitliliği koruyarak bu problemi çözmüş oluruz.
-* **Toplam Hatası:** Eğer $x_1+x_2 \neq 100$ ise, fark başına **50 puan** ceza.
-* **Sınır Hatası:** Eğer $x_1 < 30$ ise, fark başına **100 puan** ceza.
+* **Toplam Hatası:** Eğer  $x_1+x_2 \neq 100$ ise, fark başına **50 puan** ceza.
+* **Sınır Hatası:** Eğer  $x_1 < 30$ ise, fark başına **100 puan** ceza.
 * *Sonuç:* Algoritma, ceza yememek için kısıtları sağlamayı "öğrenmiştir".
 
 ### 2. Genetik Operatörler
