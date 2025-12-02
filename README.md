@@ -1,9 +1,5 @@
 # 🏭 Endüstriyel Boya Karışımı Optimizasyonu (Genetik Algoritma)
 
-Bu proje, **Yapay Zeka Sistemleri** dersi kapsamında, kısıtlı bir optimizasyon problemini çözmek amacıyla geliştirilmiştir. Projede, fabrikadaki iki farklı pigmentin (A ve B) ideal karışım oranlarını bulan bir **Genetik Algoritma** tasarlanmıştır.
-
----
-
 ## 👤 Öğrenci Bilgileri
 * **Ad Soyad:** Ceren Mıtırık
 * **Öğrenci No:** 2212721032
