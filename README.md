@@ -15,7 +15,7 @@ Temel amaç; karışımın toplam miktarının %100 olması ve hammadde alt limi
 
 ### 1. Matematiksel Model
 **Amaç Fonksiyonu (Renk Kalitesi):**
-$$y = 5x_1 + 2x_2 - x_1x_2$$
+$$ y = 5x_1 + 2x_2 - x_1x_2$$
 
 **Değişkenler:**
 * $x_1$: Pigment A Oranı (%)
